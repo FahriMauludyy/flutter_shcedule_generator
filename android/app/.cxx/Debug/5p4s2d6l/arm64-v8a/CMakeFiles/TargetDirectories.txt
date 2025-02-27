@@ -1,0 +1,2 @@
+C:/Users/FahriMauludy/Documents/App Project/Schedule_app/flutter_schedule_generator/flutter_shcedule_generator/android/app/.cxx/Debug/5p4s2d6l/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/FahriMauludy/Documents/App Project/Schedule_app/flutter_schedule_generator/flutter_shcedule_generator/android/app/.cxx/Debug/5p4s2d6l/arm64-v8a/CMakeFiles/rebuild_cache.dir
